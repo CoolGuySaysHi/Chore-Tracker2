@@ -3,10 +3,10 @@ from datetime import datetime
 import json
 import os
 
-st.title("🧹 Chore Tracker with Money 💷")
+st.title("George's' Chore Tracker")
 
 # Base starting amount
-BASE_AMOUNT = 1.50   # base salary in pounds
+BASE_AMOUNT = 2.00   # base salary in pounds
 
 # File for completed chores
 DATA_FILE = "completed_chores.json"
